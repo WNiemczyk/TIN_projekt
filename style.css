@@ -1,0 +1,41 @@
+
+body {
+  background-color: #634f00;
+}
+#header {
+  font-size: 22px;
+  color: white;
+  width: 100%;
+}
+#login_form {
+  background-color: #634f00;
+
+}
+#name {
+  background-color: white;
+}
+#password {
+  background-color: white;
+}
+#ea {
+  background-color: white;
+}
+#login_button {
+  background-color: darkgrey;
+  color: white;
+  font-size: 12px;
+}
+#list_button {
+  background-color: darkgrey;
+  color: white;
+  font-size: 12px;
+}
+#name_label {
+  color: white;
+  font-size: 16px;
+}
+#responseOutput {
+  color: #E0B300;
+  font-size: 16px;
+}
+
